@@ -1,0 +1,1 @@
+Uma atividade da faculdade, sobre um sistema de gerencimento de projetos. Me inspirei em uma clínica de medicina e segurança do trabalho.
